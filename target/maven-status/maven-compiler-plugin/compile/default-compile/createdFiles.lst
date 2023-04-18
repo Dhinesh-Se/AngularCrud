@@ -1,0 +1,5 @@
+com\kgisl\AngularCrud\ProductController.class
+com\kgisl\AngularCrud\ProductRepository.class
+com\kgisl\AngularCrud\Application.class
+com\kgisl\AngularCrud\ResourceNotFoundException.class
+com\kgisl\AngularCrud\Product.class
